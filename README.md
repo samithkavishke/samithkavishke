@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Samith Kavishke, a second year Undergrauate at the Computer Science & Engineering Department at University of Mortuwa.
--📫 Reach me on samithkarunathilake@gmail.com
+I'm Samith Kavishke, a second year Undergrauate at the Computer Science & Engineering Department at University of Mortuwa.              
+***
+* 📫 Reach me on samithkarunathilake@gmail.com
