@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Samith Kavishke, a second year Undergrauate at the Computer Science & Engineering Department at University of Mortuwa.
+-📫 Reach me on samithkarunathilake@gmail.com
