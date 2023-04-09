@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 I'm Samith Kavishke, a second year Undergrauate at the Computer Science & Engineering Department at University of Mortuwa.              
 ***
 * 📫 Reach me on samithkarunathilake@gmail.com
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samithkavishke&show_icons=true&locale=en&layout=compact" alt="samithkavishke" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samithkavishke&show_icons=true&locale=en" alt="samithkavishke" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samithkavishke&" alt="samithkavishke" /></p>
