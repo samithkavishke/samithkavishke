@@ -17,12 +17,13 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
+* 👨🏽‍💻 I’m a Computer Science and Engineering graduate from the University of Moratuwa, Sri Lanka.
+* 💼 Currently working as a Software Engineer at [WSO2](https://wso2.com/).
+* 🌱 Passionate about High-Performance Computing (HPC), Compilers, and AI Model Development.
+* 🤔 Interested in exploring the fundamentals of computing, building efficient systems, and preparing AI models.
+* 💬 Feel free to ask me about anything. I love sharing knowledge and discussing new ideas!
+* 📫 Reach me at [samithkarunathilake@gmail.com](mailto:samithkarunathilake@gmail.com).
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at University of Moratuwa, Sri Lanka.
-- 🌱 I’m currently exploring React with a big interest in Front-End development and Data Structures and Algorithms. 
-- 🤔 My interest lies in fullstack development and Machine Learning.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [samithkarunathilake@gmail.com](mailto:samithkarunathilake@gmail.com).
 
 
 
