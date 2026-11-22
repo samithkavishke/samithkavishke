@@ -18,7 +18,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 * 👨🏽‍💻 I’m a Computer Science and Engineering graduate from the University of Moratuwa, Sri Lanka.
-* 💼 Currently working as a Software Engineer at [WSO2](https://wso2.com/).
+* 💼 Currently working as a Software Engineer at [Choreo Labs(Formerly WSO2)](https://choreolabs.com/).
 * 🌱 Passionate about High-Performance Computing (HPC), Compilers, and AI Model Development.
 * 🤔 Interested in exploring the fundamentals of computing, building efficient systems, and preparing AI models.
 * 💬 Feel free to ask me about anything. I love sharing knowledge and discussing new ideas!
